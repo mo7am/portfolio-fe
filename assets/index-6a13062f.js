@@ -1,0 +1,1 @@
+import{d as e,db as t,o as n,c as s}from"./index-ab2bc521.js";const i=e({__name:"index",setup(a){return t("Terminals Settings"),(o,l)=>(n(),s("div",null,"Hello Settings Terminals!"))}});export{i as default};

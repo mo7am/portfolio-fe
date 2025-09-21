@@ -1,0 +1,1 @@
+import{_ as e}from"./Form.vue_vue_type_style_index_0_lang-be9ca6eb.js";import{d as o,o as r,h as a}from"./index-ab2bc521.js";const m=o({__name:"AdminRoleForm",setup(n){return(s,_)=>(r(),a(e,{isMerchant:!1}))}});export{m as _};

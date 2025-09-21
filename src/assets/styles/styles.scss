@@ -1,0 +1,45 @@
+// Write your overrides
+@import url("./tailwind.scss");
+@import url("./_toastify.scss");
+@import url("./custom-styles.scss");
+
+.ineventory-grid {
+  grid-template-columns: 400px 1fr;
+}
+
+@media screen and (max-width: 1000px) {
+  .ineventory-grid {
+    grid-template-columns: 275px 1fr;
+  }
+}
+
+@media screen and (max-width: 785px) {
+  .ineventory-grid {
+    grid-template-columns: 60px 1fr;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .ineventory-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.search-style .v-field__outline {
+  color: #ff6f61 !important;
+}
+
+.search-style .v-field__field {
+  padding-left: 20px !important;
+}
+
+.v-application {
+  background-color: #fafafa;
+}
+
+.required-icon {
+  color: red;
+  font-size: 25px;
+  margin-bottom: -15px;
+  margin-top: -15px;
+}

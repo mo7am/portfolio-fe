@@ -1,0 +1,1 @@
+import{d as e,db as t,o as s,c as n}from"./index-ab2bc521.js";const l=e({__name:"index",setup(a){return t("Settings Assistant"),(o,i)=>(s(),n("div",null,"Hello Settings Assistant!"))}});export{l as default};

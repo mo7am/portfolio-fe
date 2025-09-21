@@ -1,0 +1,1 @@
+.brands-grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.brand-grid{grid-template-columns:40px 1fr}

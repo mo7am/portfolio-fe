@@ -1,0 +1,1 @@
+import{d as e,db as t,o as n,c as s}from"./index-ab2bc521.js";const c=e({__name:"index",setup(r){return t("Printers Settings"),(o,a)=>(n(),s("div",null,"Hello Settings Printers!"))}});export{c as default};
